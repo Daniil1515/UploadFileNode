@@ -4,13 +4,13 @@ import {upload} from './upload.js'
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAi6w4QQ9dxvPz5cWAgkwt1Ne231rG65tM",
-  authDomain: "fe-upload.firebaseapp.com",
-  projectId: "fe-upload",
-  storageBucket: "fe-upload.appspot.com",
-  messagingSenderId: "88071581063",
-  appId: "1:88071581063:web:26caeb285967172a2fb722"
-}
+  apiKey: "AIzaSyB3eqmVympmSb_Hd-n7E0R6EXBKh7iD7N8",
+  authDomain: "uploadnode-57961.firebaseapp.com",
+  projectId: "uploadnode-57961",
+  storageBucket: "uploadnode-57961.appspot.com",
+  messagingSenderId: "1037594449318",
+  appId: "1:1037594449318:web:4385f77e1bbcebc2c72b67"
+};
 
 firebase.initializeApp(firebaseConfig)
 
